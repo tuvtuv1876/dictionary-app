@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  font-size: 32px;
+  margin: 40px 30px;
+}
+
+.AppBody {
+  font-size: 22px;
+  padding: 40px 30px 40px 30px;
+}
+
+.AppBody .row {
+}
+
+.App-footer {
+  font-size: 16px;
+}
